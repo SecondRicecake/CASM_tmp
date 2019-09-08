@@ -1,0 +1,22 @@
+﻿a,King has bad intentions
+a,King climbs into backyard
+a,Others in living room
+a,King opens door
+a,King enters house
+a,King steps on toy
+e,King testimony (was in backyard)
+e,W1 testimony (was in living room)
+e,W2 testimony (was in living room)
+e,W3 testimony (was in living room)
+e,W1 testimony
+e,W2 testimony
+a,Toy makes sound
+a,Toy makes sound
+a,King exists house
+a,W1 hears toy
+a,King closes door
+a,W1 goes to bedroom
+a,Door is closed
+a,W1 sees King in backyard
+a,W1 runs after King
+a,W1 and W2 grab King
