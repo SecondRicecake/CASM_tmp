@@ -10,7 +10,7 @@ For shorter, brainstorming level mapping, we recommend adding the necessary node
 To map out an entire case file, we recommend using our _Import from '.csv'_ feature. 
 By defining the node type and the content in csv format, CASM can automatically generate the nodes. Refer to table below to create a csv file for CASM.
 
-| Node type  | Node abbreviation |
+| Node Type  | Node Type Abbreviation |
 | ------------- | ------------- |
 | Evidence  | e, evidence  |
 | Sub-source  | sub, subsource  |
@@ -54,7 +54,7 @@ Use right-mouse-click after selecting a node. The following features will be ava
 ### Toggle arrow tips to the connection line
 
 Click on the connection line between the nodes to open the connection menu.
-You can toggle arrows tips pointing to one node or both nodes.
+You can toggle arrows tips pointing to one node or both nodes. To remove arrow tip, simply click on the toggle option again.
 
 ### Changing connection line color
 
@@ -78,6 +78,11 @@ You have four options for both nodes:
 
 For example, if you want to connect the right side of node 1 to the bottom side of node 2, 
 click on the right button on the right cross(dpad-like button) and the bottom button on the left cross. This feature can be used to separate lines that overlap or simply serve to neatly organize the map.
+
+### Delete connection
+
+Click on the connection line between the nodes to open the connection menu. Click on Delete Connection.
+
 
 ## Shortcuts
 
