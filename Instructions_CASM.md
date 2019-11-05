@@ -7,6 +7,11 @@ Currently, there are 2 import methods available,
 * Import from (.csv)
 
 For shorter, brainstorming level mapping, we recommend adding the necessary nodes(text-box for your content) with the GUI buttons and saving the nodes as .casm file.
+
+___Update v.1.1 ___
+
+_CASM now takes by default JSON files!_
+
 To map out an entire case file, we recommend using our _Import from '.csv'_ feature. 
 By defining the node type and the content in csv format, CASM can automatically generate the nodes. Refer to table below to create a csv file for CASM.
 
@@ -42,6 +47,11 @@ Use right-mouse-click after selecting a node. The following features will be ava
 * DELETE node
 * Create connection (line) FROM node 
 * Create connection (line) TO node
+
+### Show/Hide the nodes
+
+Use the "Toggle <nodetype> button" on the left hand side to show/hide nodes by nodetype.
+This is NOT a delete feature. The connection lines do not toggle.
 
 ### Making connection lines between nodes
 
@@ -103,6 +113,16 @@ Select the nodes to align and press 'v' on your keyboard.
 
 Use Ctrl + z to undo.
 
+### Redo 
 
+Use Ctrol + y to redo.
+
+### Delete
+
+Select nodes to delete and press the 'DEL' key on your keyboard.
+
+### Save
+
+Use Ctrol + s to save.
 
 
