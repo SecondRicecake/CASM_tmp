@@ -115,7 +115,7 @@ Use Ctrl + z to undo.
 
 ### Redo 
 
-Use Ctrol + y to redo.
+Use Ctrl + y to redo.
 
 ### Delete
 
@@ -123,6 +123,6 @@ Select nodes to delete and press the 'DEL' key on your keyboard.
 
 ### Save
 
-Use Ctrol + s to save.
+Use Ctrl + s to save.
 
 
